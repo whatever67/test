@@ -10,6 +10,7 @@ Tohle je stránka pro o mně, kterou za chvíli nahrajeme na GitHub. Všechny te
 
 Z této stránky se sozvíte něco o mě:
 
+* [👤 index](index.md)
 * [👤 Více o mně a mých cílech](o-mne.md)
 * [📞 Napište mi / Kontaktní údaje](kontakt.md)
 
