@@ -16,7 +16,7 @@ Z této hlavní stránky se můžete prokliknout na moje podstránky:
 ## 💡 Důležitá poznámka k odřádkování
 Až tento web nahrajete na GitHub, pamatujte na hlavní pravidlo Markdownu:
 
-Pokud chcete začít **úplně nový odstavec**, musíte na klávesnici stisknout **Enter dvakrát** (nechat mezi texty prázdný řádek). Pokud stisknete Enter jen jednou, text se na webu slije do jednoho dlouhého řádku.
+Pokud chcete začít **úplně nový odstavec**, musíte na klávesnici stisknout **Enter dvakrát** (nechat mezi texty prázdný řádek). Pokud stisknete Enter jen jednou, text se na webu slije do jednoho dlouhého řádku.  
 #  
 ### zdravotni doporuceni  
 Nepijte 30 plechovek **energidrinků** každý den
