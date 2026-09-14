@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Můj první Markdown web
+"description: "Tento web slouží jako zkouška pro psaní textů a odkazů v Markdownu."
 ---
 
 # 🚀 Vítejte na mém prvním webu
