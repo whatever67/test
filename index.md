@@ -20,7 +20,7 @@ Pokud chcete začít **úplně nový odstavec**, musíte na klávesnici stisknou
 #  
 ### zdravotni doporuceni  
 Nepijte 30 plechovek **energidrinků** každý den
-*Tým předních galaktických vědců po letech náročného výzkumu dospěl k naprosto přelomovému a šokujícímu zjištění, které staví veškerou logiku na hlavu: Pokud do sebe každý den nalijete 30 energetických nápojů,po dobu osmdesáti let. Umřete*
+*Tým předních galaktických vědců po letech náročného výzkumu dospěl k naprosto přelomovému a šokujícímu zjištění, které staví veškerou logiku na hlavu: Pokud do sebe každý den nalijete 30 energetických nápojů,po dobu osmdesáti let. Umřete*  
 
 
 
