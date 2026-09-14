@@ -8,8 +8,9 @@ description: "Tento web slouží jako zkouška pro psaní textů a odkazů v Mar
 
 Tohle je hlavní stránka, kterou za chvíli nahrajeme na GitHub. Všechny texty zde píšu v čistém Markdownu.
 
-Z této hlavní stránky se můžete prokliknout na moje podstránky:
+Z této hlavní stránky se můžete prokliknout na moje podstránky:  
 
+* [👤 index](index.md)
 * [👤 Více o mně a mých cílech](o-mne.md)
 * [📞 Napište mi / Kontaktní údaje](kontakt.md)
 
