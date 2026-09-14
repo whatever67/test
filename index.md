@@ -28,7 +28,7 @@ Nepijte 30 plechovek **energidrinků** každý den
 
 
 ### Válka o Felix Prime: Hvězdný konflikt koček a psů  
-![kostel](kocka.png) 
+![kostel](kocka.png)   
 V hlubokém vesmíru, daleko za hranicemi lidského chápání, se nachází hvězdná soustava Felis. Její srdce tvoří planeta Felix Prime – nádherný svět plný obřích škrabadel, nekonečných luk s tou nejjemnější šantou kočičí a řek, ve kterých místo vody teče teplé mléko. Tuto planetu po tisíciletí obývala vyspělá civilizace humanoidních koček. Kočky z Felix Prime byly známé svou elegancí, klidem a neuvěřitelnou technologickou vyspělostí v oblasti spánkové vědy, neboť dokázaly prospat až dvacet tři hodin pozemského času denně, a přesto udržet svou ekonomiku na vrcholu. Klidný život na planetě však skončil v momentě, kdy do jejich sluneční soustavy vletěla flotila z planety Canis major – domova militaristické a hlučné rasy psů.  
 
 Psi, vedeni svým nejvyšším generálem Hafem Von Štěkajícím, byli posedlí čistotou, aportováním a destrukcí všeho, co bylo měkké a úhledně poskládané. Jejich planeta Canis byla sice plná kostí a luxusních psích boud, ale chyběla jí jedna klíčová surovina – prostor pro neřízené pobíhání za vlastním ocasem. Když psí průzkumníci objevili Felix Prime, generál Haf okamžitě vyhlásil kolonizační kampaň. Psi však nepoužívali lasery ani plazmové zbraně. Jejich zbrojní inženýři vyvinuli zbraň hromadného ničení, která měla zasáhnout největší slabost kočičí povahy: nekonečné role prémiového třívrstvého toaletního papíru.  
