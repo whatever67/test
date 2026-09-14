@@ -14,7 +14,6 @@ Z této stránky se sozvíte něco o mě:
 * [👤 Více o mně a mých cílech](o-mne.md)
 * [📞 Napište mi / Kontaktní údaje](kontakt.md)
 
-
 ## Kontakty  
 telefon: *Samsung*  
 email: *nemám*  
