@@ -7,5 +7,12 @@ Z této hlavní stránky se můžete prokliknout na moje podstránky:
 * [👤 Více o mně a mých cílech](o-mne.md)
 * [📞 Napište mi / Kontaktní údaje](kontakt.md)
 
+## 📞 Rychlý kontakt (Příklad)
+Pokud mě potřebujete zastihnout hned, můžete využít tyto údaje:
+* **Telefon:** +Jfekehehekejrh
+* **E-mail:** email
+* **Discord:** hejekebehej
+* **Lokalita:** Česká republika
 
+---
 
