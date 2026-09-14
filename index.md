@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: null
 title: Můj první Markdown web
 description: "Tento web slouží jako zkouška pro psaní textů a odkazů v Markdownu."
 ---
