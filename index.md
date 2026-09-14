@@ -19,13 +19,13 @@ Až tento web nahrajete na GitHub, pamatujte na hlavní pravidlo Markdownu:
 Pokud chcete začít **úplně nový odstavec**, musíte na klávesnici stisknout **Enter dvakrát** (nechat mezi texty prázdný řádek). Pokud stisknete Enter jen jednou, text se na webu slije do jednoho dlouhého řádku.  
 ---  
 ### zdravotni doporuceni  
-Nepijte 30 plechovek **energidrinků** každý den
-*Tým předních galaktických vědců po letech náročného výzkumu dospěl k naprosto přelomovému a šokujícímu zjištění, které staví veškerou logiku na hlavu: Pokud do sebe každý den nalijete 30 energetických nápojů,po dobu osmdesáti let. Umřete*  
-
-
-
-
+Nepijte 30 plechovek **energidrinků** každý den  
+*Tým předních galaktických vědců po letech náročného výzkumu dospěl k naprosto přelomovému a šokujícímu zjištění, které staví veškerou logiku na hlavu: Pokud do sebe každý den nalijete 30 energetických nápojů,po dobu osmdesáti let. Umřete*    
 ---  
+
+
+
+
 ### Válka o Felix Prime: Hvězdný konflikt koček a psů  
 
 V hlubokém vesmíru, daleko za hranicemi lidského chápání, se nachází hvězdná soustava Felis. Její srdce tvoří planeta Felix Prime – nádherný svět plný obřích škrabadel, nekonečných luk s tou nejjemnější šantou kočičí a řek, ve kterých místo vody teče teplé mléko. Tuto planetu po tisíciletí obývala vyspělá civilizace humanoidních koček. Kočky z Felix Prime byly známé svou elegancí, klidem a neuvěřitelnou technologickou vyspělostí v oblasti spánkové vědy, neboť dokázaly prospat až dvacet tři hodin pozemského času denně, a přesto udržet svou ekonomiku na vrcholu. Klidný život na planetě však skončil v momentě, kdy do jejich sluneční soustavy vletěla flotila z planety Canis major – domova militaristické a hlučné rasy psů.  
