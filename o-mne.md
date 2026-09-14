@@ -16,5 +16,5 @@ Z této stránky se sozvíte něco o mě:
 
 ## 💡 Důležitá poznámka  
 nemám rád mrkvovou zmrzlinu  
-Mám rád **čokoládovou**
-*Občas si koupim kopečky btw*
+Mám rád **čokoládovou**  
+*Občas si koupim víc kopečků btw*
