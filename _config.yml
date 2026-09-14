@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
-title: "Moje první testovací stránka"
-description: "Tento web slouží jako zkouška pro psaní textů a odkazů v Markdownu."
 show_downloads: false
 github:
   is_project_page: false
